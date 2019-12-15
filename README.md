@@ -2,6 +2,8 @@
 
 This project is the Neural Network course project in which I tried to implement a Neural Network from scratch and try to solve some image problems with it. Then, in the next assignment, I have tried to solve the Fashion-MNIST and the CIFAR-10 challenges using CNN and Keras library.
 
+The report of the codes are available for download as pdf at [here](https://github.com/ArefMq/simple-nn/blob/master/simple-nn.pdf).
+
 ## Assignment #1 (MLP)
 - [Day-1](https://github.com/ArefMq/simple-nn/blob/master/Day-1.ipynb): Implementing neural network with backpropagation and try to solve XOR problem.
 - [Day-2](https://github.com/ArefMq/simple-nn/blob/master/Day-2.ipynb): Clean the code and make it more general in terms of using with different functions.

@@ -14,4 +14,5 @@ The report of the codes are available for download as pdf at [here](https://gith
 - [Day-6](https://github.com/ArefMq/simple-nn/blob/master/Day-6.ipynb): Solve CIFAR-10 with CNN implemented in Keras.
 
 ## Assignment #3 (RNN)
-~~ *unassigned* ~~
+- [Day-7](https://github.com/ArefMq/simple-nn/blob/master/Day-7.ipynb): Solve text sentiment detection using RNN implementation in Keras.
+
